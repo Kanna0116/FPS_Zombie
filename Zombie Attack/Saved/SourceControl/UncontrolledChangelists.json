@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/vpcreations1/Documents/GitHub/FPS_Zombie/Zombie Attack/Content/MAin/Blueprint/FirstPersonCharacter.uasset",
+				"C:/Users/vpcreations1/Documents/GitHub/FPS_Zombie/Zombie Attack/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap",
+				"C:/Users/vpcreations1/Documents/GitHub/FPS_Zombie/Zombie Attack/Content/AnimStarterPack/Showcase.umap",
+				"C:/Users/vpcreations1/Documents/GitHub/FPS_Zombie/Zombie Attack/Content/MAin/Blueprint/Zombie_BP.uasset"
+			]
+		}
+	]
+}
